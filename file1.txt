@@ -1,1 +1,2 @@
-add temp content to file1
+add temp content to file1 
+add second line in the file
